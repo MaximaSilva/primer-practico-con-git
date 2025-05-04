@@ -1,0 +1,7 @@
+Estamos en la clase 5 del curso de Desarrollo Web
+
+En esta clase aprenderemos:
+- Git
+- Github
+
+Instalacion de Git
