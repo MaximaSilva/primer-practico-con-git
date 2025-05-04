@@ -4,4 +4,7 @@ En esta clase aprenderemos:
 - Git
 - Github
 
+
 Instalacion de Git
+
+Git es un sistema de control de versiones
