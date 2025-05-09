@@ -1,0 +1,60 @@
+[33mcommit a0564f700225dae5c63b63564c7110494c11d787[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: 8b485c0 28159a4
+Author: Maxima <maximasilvazquez@gmail.com>
+Date:   Thu May 8 21:30:07 2025 -0300
+
+    resolvi el conflicto
+
+[33mcommit 8b485c045df66ff41e9ebae74818478803004276[m
+Author: Maxima <maximasilvazquez@gmail.com>
+Date:   Mon May 5 19:30:33 2025 -0300
+
+    agregue tres comandos de git
+
+[33mcommit 28159a4313bd9a212646481c1214868f454523af[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Maxima <maximasilvazquez@gmail.com>
+Date:   Mon May 5 19:25:58 2025 -0300
+
+    agregue tres comandos mas
+
+[33mcommit cdbc1969eed108878b90da7c1cec2849e9b4a94e[m
+Author: Maxima <maximasilvazquez@gmail.com>
+Date:   Mon May 5 19:17:19 2025 -0300
+
+    agregue una lista con los comandos de git vistos en el curso
+
+[33mcommit 1f4895ad932f5dc503a7e891b769a01dde27f81e[m
+Author: Maxima <maximasilvazquez@gmail.com>
+Date:   Mon May 5 17:50:32 2025 -0300
+
+    cree un documento html
+
+[33mcommit 61af6d8682ebd13d2c5e66d82f644ef6518585b4[m
+Author: Maxima <maximasilvazquez@gmail.com>
+Date:   Sun May 4 00:04:47 2025 -0300
+
+    cree el archivo clase-5-d.txt
+
+[33mcommit 9ea70b062c414b038dabfd3700ec2f8290c84e23[m[33m ([m[1;32mnueva-funcionalidad[m[33m)[m
+Author: Maxima <maximasilvazquez@gmail.com>
+Date:   Sat May 3 23:48:48 2025 -0300
+
+    modifique el archivo clase 5 y cree un git ignore
+
+[33mcommit 728129c1367191e6cd7738aed3c8c38c03660362[m
+Author: Maxima <maximasilvazquez@gmail.com>
+Date:   Sat May 3 23:21:14 2025 -0300
+
+    hice cambios en el archivo clase 5 b
+
+[33mcommit 6b88c66beb073fa8165a31c9313c93405b48ec35[m
+Author: Maxima <maximasilvazquez@gmail.com>
+Date:   Sat May 3 22:50:01 2025 -0300
+
+    agregue un texto al archivo
+
+[33mcommit bbd31fed2abc4add71a5ccd6f8e72bb2ebc898e4[m
+Author: Maxima <maximasilvazquez@gmail.com>
+Date:   Mon Apr 21 18:54:48 2025 -0300
+
+    agregue un texto al archivo
